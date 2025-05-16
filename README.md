@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Vinith J!
 
-## 🚀 Data Engineer | Data Science and AI Enthusiast ]
+## 🚀 Data Engineer | Data Science and AI Enthusiast
 
 ---
 
@@ -32,7 +32,7 @@ Storyteller with Data 📚 | Firm believer in the power of continuous learning �
 
 - **Recruitment Intelligence: Salesman Selection via Ensemble ML Models - [2023]**  
   - Designed and applied ensemble machine learning models to identify high-performing salesmen at Safe-Trust NBFC.  
-  - Improved classification accuracy by 80% and provided data-backed hiring recommendations.  
+  - Improved classification accuracy by 88% and provided data-backed hiring recommendations.  
   - Focused on boosting strategic decision-making in banking and financial services.
 
 - **Precision Matters: Disease Prediction Model Selection - [2022]**  
