@@ -93,7 +93,15 @@ Storyteller with Data ðŸ“š | Firm believer in the power of continuous learning ð
 
   <!-- Tools -->
   <img src="https://img.shields.io/badge/DBeaver-372923?style=flat&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-647236?style=flat&logoColor=ocean" />
+  <img src="https://img.shields.io/badge/MySQL-647236?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Azure_Data_Studio-0078D4?style=flat&logo=azure&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />  
+  <img src="https://img.shields.io/badge/XAMPP-F05032?style=flat&logo=apachefriends&logoColor=white" />  
+  <img src="https://img.shields.io/badge/NetBeans-0097B2?style=flat&logo=netbeans&logoColor=white" />  
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=rstudio&logoColor=white" />  
+  <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+
 </p>
 
 ---
