@@ -1,5 +1,3 @@
-# Vinith-J-
-
 # 👋 Hi there, I'm Vinith J!
 
 ## 🚀 Data Engineer | Data Science and AI Enthusiast ]
@@ -95,6 +93,7 @@ Storyteller with Data 📚 | Firm believer in the power of continuous learning �
 
   <!-- Tools -->
   <img src="https://img.shields.io/badge/DBeaver-372923?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-647236?style=flat&logoColor=ocean" />
 </p>
 
 ---
